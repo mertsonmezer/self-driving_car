@@ -10,4 +10,10 @@ This notebook is separated into two main parts which are preprocessing and model
 <p align="center">
 <img src="NVIDIA_model_architecture.png" alt="NVIDIA Model Architecture" style="height: 550px; width:400px;"/>
 
-To construct the model by yourself, you can follow the notebook "self-driving_car_project.ipynb". After the trainig process, you can connect your model to the simulator by using the file "drive.py". Also, I recommend you to watch the below video to understand basically how this model works.
+To construct the model by yourself, you can follow the notebook "self-driving_car_project.ipynb". After the trainig process, you can connect your model to the simulator by using the file "drive.py". Also, I recommend you to watch the below video to understand basically how this model works. This video is the comparison of the NVIDIA model (left) and VGG model (right). Both cars in the video are controlled by AI models. For someone who are interested in the original video, here is the link: https://www.youtube.com/watch?v=3O8e9H-RP5k&t=14s&ab_channel=ChrisGundling
+
+https://user-images.githubusercontent.com/85827429/215437788-15a6e68b-167b-4405-9486-42c421a43424.mp4
+
+## REFERENCES
+* Bojarski, M., Testa, D. D., Dworakowski, D., Firner, B., Flepp, B., Goyal, P., Jackel, L. D., Monfort, M., Muller, U., Zhang, J., Zhang, X., Zhao, J., &amp; Zieba, K. (2016). End to End Learning for Self-Driving Cars. *NVIDIA Developer*. Retrieved January 30, 2023, from https://developer.nvidia.com/blog/deep-learning-self-driving-cars/.
+* Gundling, C. [Chris Gundling]. (2017, January 21). *Udacity self driving car P3 - NVIDIA vs. VGG style on track 2* [Video]. Youtube. https://www.youtube.com/watch?v=3O8e9H-RP5k&t=14s&ab_channel=ChrisGundling
