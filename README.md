@@ -14,6 +14,6 @@ To construct the model by yourself, you can follow the notebook "self-driving_ca
 
 https://user-images.githubusercontent.com/85827429/215437788-15a6e68b-167b-4405-9486-42c421a43424.mp4
 
-## REFERENCES
+## References
 * Bojarski, M., Testa, D. D., Dworakowski, D., Firner, B., Flepp, B., Goyal, P., Jackel, L. D., Monfort, M., Muller, U., Zhang, J., Zhang, X., Zhao, J., &amp; Zieba, K. (2016). End to End Learning for Self-Driving Cars. *NVIDIA Developer*. Retrieved January 30, 2023, from https://developer.nvidia.com/blog/deep-learning-self-driving-cars/.
 * Gundling, C. [Chris Gundling]. (2017, January 21). *Udacity self driving car P3 - NVIDIA vs. VGG style on track 2* [Video]. Youtube. https://www.youtube.com/watch?v=3O8e9H-RP5k&t=14s&ab_channel=ChrisGundling
